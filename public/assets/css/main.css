@@ -507,7 +507,7 @@ section {
 }
 @media (min-width: 992px) {
   .hero-animated .animated {
-    max-width: 45%;
+    max-width: 30%;
   }
 }
 @media (max-width: 991px) {
@@ -517,7 +517,7 @@ section {
 }
 @media (max-width: 575px) {
   .hero-animated .animated {
-    max-width: 80%;
+    max-width: 70%;
   }
 }
 .hero-animated .btn-get-started {
